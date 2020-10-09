@@ -10,7 +10,7 @@ impyla == 0.11.2
 pexpect == 3.3
 pg8000 == 1.10.2
 prettytable == 0.7.2
-psutil == 0.7.1
+psutil == 5.6.6
 pyhive == 0.1.5
 pytest == 2.7.2
 pytest-xdist == 1.12
