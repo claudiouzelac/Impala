@@ -26,4 +26,4 @@ thrift == 0.9.0
 thrift_sasl == 0.1.0
 
 # For dev purposes, not used in scripting. Version 1.2.1 is the latest that supports 2.6.
-ipython == 1.2.1
+ipython == 7.16.3
